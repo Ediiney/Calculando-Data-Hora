@@ -6,7 +6,14 @@
   </a>
 </p>
 
- docs: https://docs.oracle.com/javase/8/docs/api/java/util/Date.html
+## Docs:
+<ul>
+  <li>docs: https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html</li>
+  <li>docs: https://docs.oracle.com/javase/8/docs/api/java/time/LocalDateTime.html</li>
+  <li>docs: https://docs.oracle.com/javase/8/docs/api/java/time/Instant.html</li>
+  <li>docs: https://docs.oracle.com/javase/8/docs/api/java/time/Duration.html</li>
+  <li>docs: https://docs.oracle.com/javase/8/docs/api/java/time/temporal/Temporal.html</li>
+</ul>
 
 ## Class
 <ul>
